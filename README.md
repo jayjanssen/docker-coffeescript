@@ -1,3 +1,3 @@
 # docker-coffeescript
 
-Installs coffeescript, bluebird and nodemon on top of node:alpine 
+Installs coffeescript and nodemon on top of node:alpine 
